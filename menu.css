@@ -1,0 +1,497 @@
+.black{
+	color: white;
+	background-color: black;
+	height: 60px;
+
+}
+body{
+	height: 800px;
+
+}
+.black h4{
+	position: absolute;
+	padding-left: 300px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.li{
+	opacity: 0.7;
+}
+
+li{
+	list-style-type: none;
+	margin-left: 75px;
+	margin-top: 10px;
+
+}
+ul{
+	display: flex;
+	flex-wrap: nowrap;
+	padding-left: 600px;
+
+}
+.white ul{
+	padding-left: 220px;
+	font-size: 10px;
+
+}
+.white li{
+	font-size: 10px;
+}
+
+
+.white{
+	height: 60px;
+	background-color: white;
+}
+.shoes{
+	height: 500px;
+	background:-webkit-linear-gradient(190deg,rgb(11, 10, 10),rgb(254, 254, 254,0.5)),url("puma.png");
+		 background-size:cover;
+	   background-repeat: no-repeat;
+	}
+	.shoes img{
+		width: 60px;
+		height: 30px;
+		margin-left: 45%;
+		margin-top: 10%;
+
+			}
+	.ligne{
+		width: 60px;
+		height: 5px;
+		background-color:orange;
+		margin-left: 45%;
+		margin-top: 1%;
+
+	}
+	.text{
+		margin-left: 395px;
+	}
+    .text p{
+    	    color: white;
+    }
+    .strong{
+    	font-size: 30px;
+    }
+    .em{
+    	margin-top: -32px;
+    	margin-left: 110px;
+    	font-size: 10px;
+    }
+    .find p{
+    	color: white;
+    	border: 1px solid white;
+    	width: 125px;
+    	height: 30px;
+    	margin-left: 42%;
+    	padding-left: 5px;
+    	padding-top: 5px;
+    	margin-top: 100px;
+    
+    }
+    .last{
+    	background-color: #9A9A9A;
+    	height: 270px;
+    	display: flex;
+    	flex-wrap: nowrap;
+    }
+    
+    .apple img{
+    	width: 210px;
+    	height: 210px;
+    	margin-left: 60px;
+    	background-color: none;
+     
+    }
+    .apple{
+    	  background-image: url(apple2.png);
+    	  background-repeat: no-repeat;
+    	  background-size: cover;
+    	margin-left: 380px;
+    	background-color:#F66012;
+    	margin-top: -40px;
+        width: 350px;
+    	height: 250px;
+    }
+    .appl img{
+    	width: 210px;
+    	height: 210px;
+    	margin-left: 60px;
+     
+    }
+    .foot{
+    	color: black;
+    	font-size: 25px;
+    }
+    .foot p{
+    	margin-top: -20px;
+    	margin-left: 45%;
+    }
+    .appl{
+    	background-image:url(shoes.png);
+    	background-repeat: no-repeat;
+    	background-size: cover;
+    	background-color: #C8CED6;
+    	margin-top: -40px;
+    	width: 350px;
+    	height: 250px;
+    }
+    .two{
+    	margin-top: -20px;
+    }
+	    .image img{
+	    	height: 95px;
+	    	width: 85px;
+	    	position: absolute;
+	    	margin-top: -898px;
+	    	margin-left: 130px;
+	    }
+
+	    fieldset{
+	    	width: 270px;
+	    	height: 200px;
+	        margin-left:20px; 
+	        margin-top: -10px;
+	    	border: 5px solid white;
+	    	
+
+	    }
+	    legend{
+	    	margin-left: -25px;
+	    	padding-top: 10px;
+	    	padding-top: 45px;
+           color: white;
+           font-size: 19px;
+
+
+	    }
+	    .cher img{
+	    	width: 20px;
+	    	height: 20px;
+	    	position: absolute;
+	    	margin-top: -854px;
+	    	margin-left: 1100px;
+	    }
+	    .panier img{
+	    	width: 25px;
+	    	height: 25px;
+	    	position: absolute;
+	    	margin-top: -858px;
+	    	margin-left: 1130px;
+	    }
+	    .cercle{
+	    	width: 15px;
+	    	height:15px;
+	    	border-radius: 50%;
+	      background-color:#F66012;
+            margin-top: -858px;
+	    	margin-left: 1150px;
+	      
+	    }
+	    .cercle p{
+	    	 color: white;
+	    	 font-size: 10px;
+	    	 padding-left: 5px;
+	    	 padding-top: 2px;
+
+	    }
+	    .part1{
+	    	height: 250px;
+	    	width: 50px;
+	         background-color: #433A31;
+	         opacity:0.2;
+	         margin-left: 325px;
+	         margin-top: -216px;
+	    }
+	    .part2{
+	    	height: 50px;
+	    	width: 328px;
+	         background-color: #433A31;
+	         opacity:0.2;
+	         margin-top: -239px;
+	          p
+	    }
+	    .part3{
+	    	height: 250px;
+	    	width: 25px;
+	         background-color: #433A31;
+	         opacity:0.2;
+	         margin-left: 325px;
+	         margin-top: -216px;
+	    }
+	    .part4{
+	    	height: 40px;
+	    	width: 530px;
+	         background-color: #433A31;
+	         opacity:0.2;
+	         margin-top: -39px;
+	         margin-left: -180px;
+	         
+	    }
+	    .pa p{
+	    	color: white;
+	    	margin-top:170px;
+	    	margin-left: 50px;
+	    	font-size: 10px;
+	    }
+	    .phrase p{
+	    	color: white;
+	    	margin-left: -300px;
+	    	margin-top: 190px;
+	    	font-size: 10px;
+	    }
+
+
+	    @media only screen and (max-width: 768px) {
+	    	
+
+  
+.black{
+	color: white;
+	background-color: black;
+	height: 40px;
+
+}
+body{
+	height: 800px;
+
+}
+.black h4{
+	position: absolute;
+	padding-left: 50px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.li{
+	opacity: 0.7;
+}
+
+li{
+	list-style-type: none;
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+ul{
+	display: flex;
+	flex-wrap: nowrap;
+	padding-left: 180px;
+
+}
+.white ul{
+	padding-left: 70px;
+	font-size: 10px;
+
+}
+.white li{
+	font-size: 10px;
+}
+
+
+.white{
+	height: 60px;
+	background-color: white;
+}
+.shoes{
+	height: 500px;
+	background:-webkit-linear-gradient(190deg,rgb(11, 10, 10),rgb(254, 254, 254,0.5)),url("puma.png");
+		 background-size:cover;
+	   background-repeat: no-repeat;
+	}
+	.shoes img{
+		width: 60px;
+		height: 30px;
+		margin-left: 45%;
+		margin-top: 10%;
+
+			}
+	.ligne{
+		width: 60px;
+		height: 5px;
+		background-color:orange;
+		margin-left: 45%;
+		margin-top: 1%;
+
+	}
+	.text{
+		margin-left:170px;
+	}
+    .text p{
+    	    color: white;
+    }
+    .strong{
+    	font-size: 10px;
+    }
+    .em{
+    	margin-top: -10px;
+    	margin-left: 30px;
+    	font-size: 5px;
+    }
+    .find p{
+    	color: white;
+    	border: 1px solid white;
+    	width: 125px;
+    	height: 30px;
+    	margin-left: 42%;
+    	padding-left: 5px;
+    	padding-top: 5px;
+    	margin-top: 100px;
+    
+    }
+ .cher img{
+	    	width: 20px;
+	    	height: 20px;
+	    	position: absolute;
+	    	margin-top: -854px;
+	    	margin-left: 390px;
+	    }
+	    .panier img{
+	    	width: 25px;
+	    	height: 25px;
+	    	position: absolute;
+	    	margin-top: -858px;
+	    	margin-left: 410px;
+	    }
+	    .cercle{
+	    	width: 15px;
+	    	height:15px;
+	    	border-radius: 50%;
+	      background-color:#F66012;
+            margin-top: -858px;
+	    	margin-left: 427px;
+	      
+	    }
+	    .cercle p{
+	    	 color: white;
+	    	 font-size: 10px;
+	    	 padding-left: 5px;
+	    	 padding-top: 2px;
+
+	    }
+	    .last{
+    	background-color: #9A9A9A;
+    	height: 270px;
+    	display: flex;
+    	flex-wrap: nowrap;
+    }
+    
+    .apple img{
+    	width: 100px;
+    	height: 70px;
+    	margin-left: 30px;
+    	background-color: none;
+     
+    }
+    .apple{
+    	  background-image: url(apple2.png);
+    	  background-repeat: no-repeat;
+    	  background-size: cover;
+    	margin-left: 80px;
+    	background-color:#F66012;
+    	margin-top: -40px;
+        width: 160px;
+    	height: 150px;
+    }
+    .appl img{
+    	width: 100px;
+    	height: 70px;
+    	margin-left: 30px;
+     
+    }
+    .foot{
+    	color: black;
+    	font-size: 25px;
+    }
+    .foot p{
+    	margin-top: -20px;
+    	margin-left: 45%;
+    }
+    .appl{
+    	background-image:url(shoes.png);
+    	background-repeat: no-repeat;
+    	background-size: cover;
+    	background-color: #C8CED6;
+    	margin-top: -40px;
+    	width: 160px;
+    	height: 150px;
+    }
+    .two{
+    	margin-top: -20px;
+    }
+	    .image img{
+	    	height: 95px;
+	    	width: 55px;
+	    	position: absolute;
+	    	margin-top: -880px;
+	    	margin-left: 30px;
+	    }
+
+	    fieldset{
+	    	width: 100px;
+	    	height: 110px;
+	        margin-left:20px; 
+	        margin-top: -10px;
+	    	border: 5px solid white;
+	    	
+
+	    }
+	    legend{
+	    	margin-left: -25px;
+	    	padding-top: 10px;
+	    	padding-top: 45px;
+           color: white;
+           font-size: 10px;
+}
+
+
+ .part1{
+	    	height: 155px;
+	    	width: 30px;
+	         background-color:#433A31;
+	         opacity:0.6;
+	         margin-left: 155px;
+	         margin-top: -130px;
+	    }
+	    .part2{
+	    	height: 30px;
+	    	width: 328px;
+	         background-color:#433A31;
+	         opacity:0.2;
+	         margin-top: -150px;
+	          
+	    }
+	    .part3{
+	    	height: 160px;
+	    	width: 25px;
+	         background-color: #433A31;
+	         opacity:0.2;
+	         margin-left: 150px;
+	         margin-top: -135px;
+	    }
+	    .part4{
+	    	height: 40px;
+	    	width: 310px;
+	         background-color: #433A31;
+	         opacity:0.2;
+	         margin-top: -39px;
+	         margin-left: -160px;
+	         
+	    }
+	    .pa p{
+	    	color: white;
+	    	margin-top:110px;
+	    	margin-left: 50px;
+	    	font-size: 5px;
+	    }
+	    .phrase p{
+	    	color: white;
+	    	margin-left: -60px;
+	    	margin-top: 95px;
+	    	font-size: 10px;
+	    }
+	    
+	    
+	    
+	    
+}
